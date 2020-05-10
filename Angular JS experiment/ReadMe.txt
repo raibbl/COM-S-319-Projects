@@ -1,0 +1,2 @@
+-there is no need to compile this code, all you have to do is open cars.html on preferbly chrome by cliking on the file 
+-if chrome is not the default browser then just right click and choose open with and choose chrome
